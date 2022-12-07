@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.mp4
+*.mpg
+*.mkv
+__pycache__/
+.DS_Store
